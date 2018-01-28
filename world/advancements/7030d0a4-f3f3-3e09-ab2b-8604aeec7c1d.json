@@ -1,0 +1,8 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-01-26 20:40:03 +0900"
+    },
+    "done": true
+  }
+}
